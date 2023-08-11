@@ -1,5 +1,5 @@
-## Hello I am Clément a student in web development
-Welcome to my GitHub ! 👨‍💻
+## Hello, I am Clément, a full-stack developer apprentice at a parisian start-up.
+_Welcome to my GitHub !_ 👨‍💻
 
 Learning : 🐍Django , 🟦Typescript and 🎵Symfony <br>
 Working with : 🐘PHP , 🦢Sylius , 🎵Symfony , 🐋Docker and 🐧Linux(Ubuntu)
@@ -14,4 +14,3 @@ Working with : 🐘PHP , 🦢Sylius , 🎵Symfony , 🐋Docker and 🐧Linux(Ubu
 <img src="https://github.com/get-icon/geticon/blob/master/icons/nodejs-icon.svg" alt="nodejs" width="40px" height="40px" />
 <img src="https://github.com/get-icon/geticon/blob/master/icons/mongodb-icon.svg" alt="mongo db" width="40px" height="40px" />
 </p>
-
