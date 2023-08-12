@@ -1,6 +1,7 @@
 ## Hello, I am Clément, a full-stack developer apprentice at a parisian start-up.
 _Welcome to my GitHub !_ 👨‍💻
 
+### Actually :
 Learning : 🐍Django , 🟦Typescript and 🎵Symfony <br>
 Working with : 🐘PHP , 🦢Sylius , 🎵Symfony , 🐋Docker and 🐧Linux(Ubuntu)
 
