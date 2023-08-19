@@ -1,6 +1,8 @@
 ## Hello, I am Clément, a full-stack developer apprentice at a parisian start-up.
 _Welcome to my GitHub !_ 👨‍💻
 
+Check my personal website
+--> https://clm-msch.fr/ <--
 ### Actually :
 Learning : 🤖TensorFlow.js & 🟦Typescript<br>
 Working with : 🐘PHP , 🦢Sylius , 🎵Symfony , 🐋Docker and 🐧Linux(Ubuntu)
