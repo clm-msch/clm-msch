@@ -2,8 +2,7 @@
 ### Actually :
 Working on a E-learning/quiz maker app : Filicoursy 🚧
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clm-msch&show_icons=true&theme=dark" alt="clm-msch's github stats" /></a> | <a href="https://github.com/clm-msch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clm-msch&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/clm-msch/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clm-msch&layout=compact&theme=dark&hide_border=true" /></a>
 
 ### My ⭐ Tech Stack :
 <p>
