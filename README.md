@@ -1,4 +1,4 @@
-## Hello, I am Clément, a full-stack developer apprentice at a parisian start-up.
+## Hello, I am Clément, a full-stack junior developer
 
 ### Side Project :
 Working on a E-learning/quiz maker app : Filicoursy 🚧
